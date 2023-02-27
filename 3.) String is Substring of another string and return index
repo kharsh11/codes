@@ -1,3 +1,5 @@
+check if string s1 is substring of string s2.
+
 #include <bits/stdc++.h>
 using namespace std;
 
